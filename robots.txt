@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blanerhodes.github.io/sitemap.xml
